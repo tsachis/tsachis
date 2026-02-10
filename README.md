@@ -10,9 +10,12 @@ Projects I've contributed to (merged PRs):
 
 | Project | Stars | Contribution |
 |---------|-------|-------------|
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | ![GitHub stars](https://img.shields.io/github/stars/BerriAI/litellm?style=flat&color=yellow) | Bug fixes in proxy redaction headers and video pagination |
-| [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) | ![GitHub stars](https://img.shields.io/github/stars/metatool-ai/metamcp?style=flat&color=yellow) | OIDC auth support, database connection refactoring, and more |
+| [open-webui/open-webui](https://github.com/open-webui/open-webui) | ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=flat&color=yellow) | Bug fixes and improvements |
+| [axios/axios](https://github.com/axios/axios) | ![GitHub stars](https://img.shields.io/github/stars/axios/axios?style=flat&color=yellow) | Bug fixes and improvements |
 | [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) | ![GitHub stars](https://img.shields.io/github/stars/DefinitelyTyped/DefinitelyTyped?style=flat&color=yellow) | Added missing Jaeger client type definitions |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | ![GitHub stars](https://img.shields.io/github/stars/BerriAI/litellm?style=flat&color=yellow) | Bug fixes in proxy redaction headers and video pagination |
+| [better-auth/better-auth](https://github.com/better-auth/better-auth) | ![GitHub stars](https://img.shields.io/github/stars/better-auth/better-auth?style=flat&color=yellow) | Bug fixes and improvements |
+| [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) | ![GitHub stars](https://img.shields.io/github/stars/metatool-ai/metamcp?style=flat&color=yellow) | OIDC auth support, database connection refactoring, and more |
 | [dsternlicht/RESTool](https://github.com/dsternlicht/RESTool) | ![GitHub stars](https://img.shields.io/github/stars/dsternlicht/RESTool?style=flat&color=yellow) | Dynamic config and data transformation support |
 | [vlio20/utils-decorators](https://github.com/vlio20/utils-decorators) | ![GitHub stars](https://img.shields.io/github/stars/vlio20/utils-decorators?style=flat&color=yellow) | Fixed refreshable decorator blocking Node exit |
 
