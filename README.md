@@ -6,8 +6,6 @@ Software engineer at [Outbrain](https://www.outbrain.com). I enjoy building deve
 
 ### Open Source Contributions
 
-Projects I've contributed to (merged PRs):
-
 | Project | Stars | Contribution |
 |---------|-------|-------------|
 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=flat&color=yellow) | Bug fixes and improvements |
