@@ -47,3 +47,9 @@ Projects I've contributed to (merged PRs):
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
 
+---
+
+<p align="center">
+  <sub>Generated with <a href="https://claude.ai/claude-code">Claude Code</a></sub>
+</p>
+
